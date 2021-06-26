@@ -3,7 +3,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=diamantdev&label=Profile%20views&color=b69bc9&style=flat-square" alt="diamantdev" /> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diamantdev" alt="diamantdev" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diamantdev&theme=dracula&column=7" alt="diamantdev" /></a> </p>
 
 - 🔭 I’m currently working on [What-Pokemon-Are-You-Today](https://github.com/diamantdev/What-Pokemon-Are-You-Today)
 - 📆 I'm a web developer since **2014**
