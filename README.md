@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Diamant.</h1>
 <h3>🏳️‍🌈 PANSEXUAL / AGENDER 🏳️‍🌈 (And proud. 💜)</h3>
 
-- 🔭 I’m currently working on [What-Pokemon-Are-You-Today](https://github.com/diamantdev/What-Pokemon-Are-You-Today)
 - 📆 I'm a web developer since **2014**
 - 🌐 [My website](https://diamant.dev)
 - ✉️ My mail: **git@diamant.dev**
