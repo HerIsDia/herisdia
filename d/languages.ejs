@@ -1,7 +1,9 @@
-<% if (LANGUAGES) { %> ## My primary languages. <% for( const {name, value,
-color} of LANGUAGES ) { %> <% const val = Math.floor(value*100) %>
+<% if (LANGUAGES) { %> ## My primary languages. <% for( let index = 0; index <
+LANGUAGES.length; index++ ) { %> <% const text = { name: LANGUAGES[index].name,
+value: Math.floor(LANGUAGES[index].value*100), color:
+LANGUAGES[index].color.replace('#','') } %>
 <img
-  src="https://img.shields.io/badge/<%= name %>-<%= val %>-<%= color.replace('#','') %>?style=for-the-badge"
+  src="https://img.shields.io/badge/<%= text.name %>-<%= text.value %>-<%= text.color %>?style=for-the-badge"
   alt=""
 />
 <% } %> <% } %>
