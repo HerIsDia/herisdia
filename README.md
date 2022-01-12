@@ -7,6 +7,4 @@
 - 🌐 [My website](https://diamant.dev)
 - ✉️ My mail: **git@diamant.dev**
 
-I'm on Github since `25 Jun 2020` made `276` commits, over `24` repositories.
-
-[WIP.]
+![Metrics](./github-metrics.svg)
