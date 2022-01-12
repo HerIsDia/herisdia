@@ -6,6 +6,3 @@
 - 📆 I'm a web developer since **2014**
 - 🌐 [My website](https://diamant.dev)
 - ✉️ My mail: **git@diamant.dev**
-
-
-![Metrics](./github-metrics.svg)
