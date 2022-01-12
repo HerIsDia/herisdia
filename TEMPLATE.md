@@ -7,4 +7,6 @@
 - 🌐 [My website]({{ WEBSITE }})
 - ✉️ My mail: **git@diamant.dev**
 
-I'm on Github since {{ f.date(REGISTRATION_DATE, {date:true}) }}, made {{ COMMITS }} commits, over {{ REPOSITORIES_CONTRIBUTED_TO }} repositories.
+I'm on Github since `{{ f.date(REGISTRATION_DATE, {date:true}) }}` made `{{ COMMITS }}` commits, over `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories.
+
+[WIP.]
