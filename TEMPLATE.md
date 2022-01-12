@@ -7,6 +7,6 @@
 - 🌐 [My website]({{ WEBSITE }})
 - ✉️ My mail: **git@diamant.dev**
 
-I'm on Github since `{{ f.date(REGISTRATION_DATE, {date:true}) }}` made `{{ COMMITS }}` commits, over `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories.
+I'm on Github since `{{ f.date(REGISTRATION_DATE, {date:true}) }}` made `{{ COMMITS }}` commits, over `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories, with a total of `{{ LINES_ADDED }}` lines added and `{{ LINES_DELETED }}` deleted line.
 
-[WIP.]
+<%- await include(d/languages.ejs) %>
