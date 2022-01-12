@@ -12,12 +12,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          isocalendar: yes
+          languages: yes
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: Diamantdev
-          template: classic
           base: header, activity, community, repositories
           config_display: large
           config_timezone: Europe/Paris
@@ -41,6 +42,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
+          plugin_languages_details: bytes-size, percentage
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
@@ -55,3 +59,7 @@ jobs:
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_traffic: yes
+          template: markdown
+          filename: README.md         # Output file
+          markdown: TEMPLATE.md       # Template file
+          markdown_cache: .cache      # Cache folder
