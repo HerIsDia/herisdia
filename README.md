@@ -1,8 +1,14 @@
-<h1>Hi 👋, I'm Diamant.</h1>
-<h3>🏳️‍🌈 PANSEXUAL / AGENDER 🏳️‍🌈 (And proud. 💜)</h3>
+<h1>Hello, I'm diamant. 👋</h1>
 
-- 📆 I'm a web developer since **2014**
-- 🌐 [My website](https://diamant.dev)
-- ✉️ My mail: **git@diamant.dev**
+📂 Typescript developper.
+<br />🪶 Emotional writer.
+<br />💾 Do french videos.
+
+
+💚 Pokemon & Sims lover.
+<br /> 👑 Furry princess.
+<br /> 🌈 Love rainbows.
+
+**Pronouns are She/her.**
 
 ![Metrics](./github-metrics.svg)
