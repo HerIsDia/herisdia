@@ -3,7 +3,8 @@
 ## About me:
 
 📂 Typescript developper.
-<br />🪶 Emotional writer.
+<br />🪶 I’m writing things sometimes [here](https://www.herisdia.me/en/writes).
+<br />🖌️ Beginner artist. (digital only.)
 <br />💾 Do french videos.
 
 
