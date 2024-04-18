@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1171" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1121" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,17 +32,17 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 25 repositories
+                            Contributed to 26 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            641 Commits
+                            646 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,13 +127,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 79 repositories
+                            Starred 81 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 39 repositories
+                            Watching 40 repositories
                         </div>
                     </section>
                 </div>
@@ -145,7 +145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            38 Repositories
+                            39 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    54 Watchers
+                                    55 Watchers
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -323,7 +323,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    12 Languages
+                    13 Languages
                 </h2>
             </section>
             <section class="column">
@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="812.0841899615557" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="812.0841899615557" y="0" width="39.01661938142392" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="851.1008093429796" y="0" width="32.501481434905465" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="883.6022907778851" y="0" width="10.58432365589554" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="894.1866144337806" y="0" width="10.283984561320608" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="904.4705989951012" y="0" width="6.016130968372555" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="910.4867299634739" y="0" width="4.9141085318583135" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="915.4008384953322" y="0" width="4.59916150466787" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="811.6022246737699" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="811.6022246737699" y="0" width="38.993463338711784" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="850.5956880124818" y="0" width="32.48219207298108" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="883.0778800854628" y="0" width="11.124054380350154" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="894.2019344658129" y="0" width="10.277881101063715" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="904.4798155668766" y="0" width="6.012560444122273" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="910.4923760109989" y="0" width="4.911192048860559" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="915.4035680598595" y="0" width="4.596431940140483" height="8" fill="#fcb32c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -478,11 +478,11 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 9 commits)</small>
+                    <small class="h-details">(computed from last 10 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 04:00</li>
+                        <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
@@ -500,60 +500,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HerIsDia/herisdia.me</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4a56db9</div>
-                                        <div class="message">Update Diamanda's profile information
-
-The profile located on the Diamanda page has been updated. The frequency of game launches has been removed, and new information has been added related to owning the pineapple's HQ.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HerIsDia/sims4radio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a095e3e</div>
-                                        <div class="message">
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Refactored updateElements and added song duration
-
-This commit refactors `updateElements` by adding a default value for `status` argument and includes a case for elapsed seconds. It additionally introduces song duration and elapsed time to the `currentElement` HTML while turning off auto-play in `audioElement`.
-
-Signed-off-by: Diamant Lelouette &lt;git@diamant.dev&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">pocketbase/pocketbase</span>
+                                        <span class="repo">IsaacScript/isaacscript</span>
                                     </div>
                                 </div>
                             </section>
@@ -565,17 +516,23 @@ Signed-off-by: Diamant Lelouette &lt;git@diamant.dev&gt;
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HerIsDia/radiair_bot</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">HerIsDia/Codert</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f1586cd</div>
-                                        <div class="message">Add package.json and .gitignore files
+                                        <div class="sha">#27c4c4c</div>
+                                        <div class="message">Implement QR code generator with Flask
 
-These files are essential for the project. package.json was created to manage the project's dependencies while .gitignore was added to exclude certain files and directories like node_modules and .idea from being tracked by Git.</div>
+Code was completely rewritten to replace the previous Python script with a QR code generator using Flask. The application will provide a form that allows users to enter a link, and then it generates a QR code for that link. Also, minor syntax correction in .gitignore file made.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae21beb</div>
+                                        <div class="message">Add main.py script and .gitignore file
+
+A new file, main.py, has been added, which includes a simple Python script that prints a greeting along with the name provided. Additionally, a .gitignore file has been created to keep certain environment and IDE files out of the repository.</div>
                                     </div>
                                 </div>
                             </section>
@@ -591,7 +548,34 @@ These files are essential for the project. package.json was created to manage th
                       branch
                                         <span class="code">master</span>
                                         in
-                                        <span class="repo">HerIsDia/radiair_bot</span>
+                                        <span class="repo">HerIsDia/Codert</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">HerIsDia/Codert</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">oxalorg/sakura</span>
                                     </div>
                                 </div>
                             </section>
@@ -618,7 +602,7 @@ These files are essential for the project. package.json was created to manage th
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -637,10 +621,10 @@ These files are essential for the project. package.json was created to manage th
                                     <span class="prefix">Super</span>
                                     polyglot
                                     <div class="value-wrapper">
-                                        <div class="value">12</div>
+                                        <div class="value">13</div>
                                     </div>
                                 </div>
-                                <div class="text">Using 12 different programming languages</div>
+                                <div class="text">Using 13 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -691,7 +675,7 @@ These files are essential for the project. package.json was created to manage th
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.88021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.0924024640657155 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -755,7 +739,7 @@ These files are essential for the project. package.json was created to manage th
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.12m out of 135m users</span>
+                                    <span class="gh">ranked 4.13m out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -773,7 +757,7 @@ These files are essential for the project. package.json was created to manage th
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.7537688442211 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.311557788944725 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -792,10 +776,10 @@ These files are essential for the project. package.json was created to manage th
                                     <span class="prefix"></span>
                                     Stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">79</div>
+                                        <div class="value">81</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 79 repositories</div>
+                                <div class="text">Starred 81 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -972,7 +956,7 @@ These files are essential for the project. package.json was created to manage th
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.47m out of 200m repositories</span>
+                                    <span class="gh">ranked 3.47m out of 199m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -1049,7 +1033,7 @@ These files are essential for the project. package.json was created to manage th
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.74m out of 200m repositories</span>
+                                    <span class="gh">ranked 2.74m out of 199m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
